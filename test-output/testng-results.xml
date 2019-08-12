@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11580" started-at="2019-08-12T15:23:22Z" finished-at="2019-08-12T15:23:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11580" started-at="2019-08-12T15:23:22Z" finished-at="2019-08-12T15:23:34Z">
+      <class name="pkg1.NewTest">
+        <test-method status="PASS" signature="LunchBrowser()[pri:0, instance:pkg1.NewTest@19f379]" name="LunchBrowser" is-config="true" duration-ms="5981" started-at="2019-08-12T15:23:22Z" finished-at="2019-08-12T15:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LunchBrowser -->
+        <test-method status="PASS" signature="PerformTest()[pri:0, instance:pkg1.NewTest@19f379]" name="PerformTest" duration-ms="12" started-at="2019-08-12T15:23:28Z" finished-at="2019-08-12T15:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PerformTest -->
+        <test-method status="PASS" signature="BrowserExit()[pri:0, instance:pkg1.NewTest@19f379]" name="BrowserExit" is-config="true" duration-ms="5539" started-at="2019-08-12T15:23:28Z" finished-at="2019-08-12T15:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserExit -->
+      </class> <!-- pkg1.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

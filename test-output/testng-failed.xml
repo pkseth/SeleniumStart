@@ -5,7 +5,9 @@
     <classes>
       <class name="pkg1.NewTest">
         <methods>
-          <include name="CallDriver"/>
+          <include name="LoginToGmail"/>
+          <include name="LunchBrowser"/>
+          <include name="BrowserExit"/>
         </methods>
       </class> <!-- pkg1.NewTest -->
     </classes>

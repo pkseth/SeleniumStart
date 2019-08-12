@@ -47,7 +47,7 @@ public void LoginToGmail() throws InterruptedException {
 	WebElement UserPwd=driver.findElement(By.xpath(".//*[@id='password']/div[1]/div/div[1]/input"));
 	UserPwd.click();
 	Thread.sleep(6000);
-	UserPwd.sendKeys("361990@Ps");
+	UserPwd.sendKeys("Enter in Run Time");
 	WebElement btnNextPwd=driver.findElement(By.id("passwordNext"));
 	btnNextPwd.click();	
 	Thread.sleep(1000);
